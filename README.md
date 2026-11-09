@@ -10,9 +10,11 @@
 | --- | --- | --- |
 | [机械装配实验室](https://github.com/TH0RGOODMAN/assembly-training-lab) | 五个三维零件，顺序、位置与姿态共同决定装配结果 | [在线体验](https://hea1.org/assembly-training-lab/) |
 | [寻路与风险实验室](https://github.com/TH0RGOODMAN/evacuation-pathfinding-lab) | 编辑地图与风险权重，比较最短路和加权路，导出可复现结果 | [在线体验](https://hea1.org/evacuation-pathfinding-lab/) |
+| [双机调度实验室](https://github.com/TH0RGOODMAN/engineering-optimization-examples) | 修改工时与权重，用甘特图比较直观派单和精确最优安排 | [在线体验](https://hea1.org/engineering-optimization-examples/) |
 
 ## 从一个具体问题开始
 
+- [谁先加工，为什么要看权重？](https://hea1.org/notes/scheduling-priorities/) —— 加权完工目标、排序规则和可复现小模型。
 - [最短的路，为什么可能要绕一绕？](https://hea1.org/notes/shortest-and-risk/) —— 路径长度与风险代价的取舍。
 - [位置对了，为什么还是装不上？](https://hea1.org/notes/assembly-rules/) —— 顺序、位置、姿态与有解释力的反馈。
 

@@ -17,7 +17,7 @@
 
 | 作品 | 可以试什么 | 入口 |
 | --- | --- | --- |
-| [机械装配实验室](https://github.com/TH0RGOODMAN/assembly-training-lab) | 五个三维零件，顺序、位置与姿态共同决定装配结果 | [在线体验](https://hea1.org/assembly-training-lab/) |
+| [机械装配实验室](https://github.com/TH0RGOODMAN/assembly-training-lab) | 爆炸拆解与分步动画、五件三维装配、空间引导和训练 / 考核 | [在线体验](https://hea1.org/assembly-training-lab/) |
 | [寻路与风险实验室](https://github.com/TH0RGOODMAN/evacuation-pathfinding-lab) | 编辑地图与风险权重，比较最短路和加权路，导出可复现结果 | [在线体验](https://hea1.org/evacuation-pathfinding-lab/) |
 | [双机调度实验室](https://github.com/TH0RGOODMAN/engineering-optimization-examples) | 修改工时与权重，用甘特图比较直观派单和精确最优安排 | [在线体验](https://hea1.org/engineering-optimization-examples/) |
 

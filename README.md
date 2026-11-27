@@ -8,10 +8,10 @@
 
 - **[北航云盘 MCP / CLI](https://github.com/TH0RGOODMAN/buaa-drive-local-mcp)**（MIT）— 让支持 MCP 的 AI 在指定同步目录内查找、读取和更新 Markdown / TXT 文本。
 
-  前提：非官方 Windows Alpha；需已登录官方客户端和指定同步目录 · [Alpha 发布页](https://github.com/TH0RGOODMAN/buaa-drive-local-mcp/releases/tag/v0.1.0-alpha.1)
+  前提：非官方 Windows Alpha；需已登录官方客户端和指定同步目录 · [Alpha 发布页](https://github.com/TH0RGOODMAN/buaa-drive-local-mcp/releases/tag/v0.2.0-alpha.1)
 - **[FlClash Control](https://github.com/TH0RGOODMAN/flclash-control)**（GPL-3.0-or-later）— 为运行中的 FlClash GUI 提供命令行与 stdio MCP 控制，直接切换监听与代理模式。
 
-  前提：实验性 Windows x64 / 0.8.93；需先构建安装带控制桥的兼容版，wheel 仅为控制端 · [安装说明](https://github.com/TH0RGOODMAN/flclash-control/blob/main/docs/usage.md)
+  前提：实验性 Windows x64 / 0.8.93；需先构建安装带控制桥的兼容版，wheel 仅为控制端 · [安装说明](https://github.com/TH0RGOODMAN/flclash-control/blob/main/docs/usage.md) · [v0.2.0 发布页](https://github.com/TH0RGOODMAN/flclash-control/releases/tag/v0.2.0)
 
 ## 交互实验
 
